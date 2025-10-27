@@ -2,6 +2,9 @@
 
 A modern React chat application that connects to a local Rocket.Chat server. Built with Vite, React, and styled with CSS.
 
+![alt text](image.png)
+![alt text](image-1.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
